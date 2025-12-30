@@ -1,9 +1,5 @@
 # Data Structures & Algorithm Projects (Java)
-
-This folder contains software engineering projects which emphasize algorithmic thinking, data structures, and component-based software design.
-
 ---
-
 # BLParser
 
 ## Overview
