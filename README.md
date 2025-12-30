@@ -77,3 +77,20 @@ The project combines text processing, sorting, and presentation logic.
 - Frequency analysis
 - Sorting with custom comparators
 - Data visualization logic
+
+---
+
+# WordCounter
+
+## Overview
+WordCounter is a text analysis program that reads input files and reports word frequency statistics.
+
+This project emphasizes correctness, clean data processing, and component-based iteration.
+
+## Key Concepts
+- Tokenization
+- Frequency counting
+- Map-based aggregation
+- File input and output
+
+
