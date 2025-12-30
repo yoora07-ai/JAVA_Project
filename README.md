@@ -50,6 +50,20 @@ This project explores abstract syntax trees (ASTs), program transformation, and 
 
 ---
 
+# SetOnBST
+
+## Overview
+SetOnBST is an implementation of the Set abstract data type using a Binary Search Tree (BST) as its underlying representation.
+
+## Key Concepts
+- Binary Search Trees (BST)
+- Set Abstract Data Type (ADT)
+- Recursive insertion and search
+- Representation invariants
+- Design by Contract
+
+---
+
 # SortingMachineWithHeapSort
 
 ## Overview
